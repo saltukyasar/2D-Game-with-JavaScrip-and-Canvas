@@ -1,0 +1,12 @@
+
+  
+  body {
+    display:grid;
+    justify-content:center;
+    align-content:space-around;
+    background-color:hsl(180, 70%, 45%);
+  }
+  p{
+    font-family: 'Goblin One', cursive;
+  }
+  
