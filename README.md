@@ -68,7 +68,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](http://tasiyici.coolpage.biz/)
+[![Product Name Screen Shot][
+
+]](http://tasiyici.coolpage.biz/)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -77,9 +79,9 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [JavaScript]()
+* [Html]()
+* [Css]()
 
 
 
@@ -121,7 +123,7 @@ _For more examples, please refer to the [Documentation](http://tasiyici.coolpage
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/saltukyasar/2D-Game-with-JavaScrip-and-Canvas) for a list of proposed features (and known issues).
 
 
 
@@ -148,10 +150,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Saltuk Yaşar  - saltukyasar@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
+Project Link: [https://github.com/saltukyasar/2D-Game-with-JavaScrip-and-Canvas](https://github.com/saltukyasar/2D-Game-with-JavaScrip-and-Canvas)
+LinkedIn Link: [https://www.linkedin.com/in/saltukyasar/] ( https://www.linkedin.com/in/saltukyasar/ )
 
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -178,4 +180,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://www.linkedin.com/in/saltukyasar/
